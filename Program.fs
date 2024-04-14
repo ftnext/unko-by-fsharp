@@ -1,4 +1,4 @@
-﻿let deru = printfn "puripuri"
+﻿open Unko
 
 [<EntryPoint>]
 let main argv =
