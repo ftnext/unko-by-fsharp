@@ -1,2 +1,6 @@
-﻿// For more information see https://aka.ms/fsharp-console-apps
-printfn "Hello from F#"
+﻿let deru = printfn "puripuri"
+
+[<EntryPoint>]
+let main argv =
+    deru
+    0
